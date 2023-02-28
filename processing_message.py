@@ -11,7 +11,7 @@ with open('chatbot_corpus.json', 'r') as myfile:
 
 
 def process_message(user, sent_input):
-    best_match = difflib.get_close_matches(sent_input, CORPUS_RESPONSES, n=1, cutoff=0.2)
+    best_match = difflib.get_close_matches(sent_input, CORPUS_RESPONSES, n=1, cutoff=0.5) # change cutoff, higher more precise, lower more lenient
     if best_match:
         best_match_string = str(best_match).strip("[]'")
     #    print(best_match_string)
