@@ -13,7 +13,7 @@ def send_message(user, body):
     message = g.sms_client.messages.create(
                      body = body,
                      from_ = yml_configs['twillio']['phone_number'],
-                     to = user.phone,
+                     to = user,
                  )
     return json_response(sid = message.sid)
 
@@ -21,7 +21,7 @@ def send_picture(user, picture_name):
     message = g.sms_client.messages.create(
                     from_ = yml_configs['twillio']['phone_number'],
                     media_url = media_urls['images'][f'{picture_name}'],
-                    to = user.phone,
+                    to = user,
     )
     return json_response(sid = message.sid)
 
