@@ -19,10 +19,10 @@ class AI:
     def setMood(self):
         if self.compound > .2:
             self.mood = "happy"
-        elif self.compound == 0:
-            self.mood = "neutral"
         elif self.compound < (-.2):
             self.mood = "mad"
+        else:
+            self.mood = "neutral"
 
     #! NOT WORKING, NEEDS TO FIX OVERALL STRESS LEVEL
     def getStressLevel(self):
@@ -42,6 +42,7 @@ class AI:
         compound = sentiment_value['compound']
         #print(self.mood_value)
         self.update_mood_value(compound)
+        self.setMood()
         #self.setMood(self.mood, sentiment_value['compound'])
 
     #temp function
