@@ -24,7 +24,7 @@ def handle_request():
     
     ### response back
     # sending back message from send_message_back.py
-    logger.debug(f"AI mood: {user.ai.mood}")
+    logger.debug(f"AI mood: {user.ai.mood}, {user.ai.mood_value}")
     send_message(user.phone, response)
 
     # send picture name/url from media.yml
