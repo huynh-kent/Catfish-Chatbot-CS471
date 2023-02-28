@@ -17,9 +17,9 @@ class AI:
     
     #TODO: Fix algorithm to set the mood once we can determine the percentajes
     def setMood(self):
-        if self.compound > .2:
+        if self.mood_value > .2:
             self.mood = "happy"
-        elif self.compound < (-.2):
+        elif self.mood_value < (-.2):
             self.mood = "mad"
         else:
             self.mood = "neutral"
