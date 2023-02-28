@@ -1,296 +1,4 @@
 {
-		"hello": {
-			"mad": [
-				"why have you been so mean recently",
-				"what do you want😒",
-				"ugh, why wont you leave me alone?",
-				"Seriously???? GO AWAY!!!!!!!!!!!!!!!!!",
-				"Pound sand creep",
-				"GOOOOOOOOOO AWAAAAAAAAYYYYYYYYYY 😡😡😡😡😡😡😡"
-			],
-			"happy": [
-				"hey how are you",
-				"heeeey 😘",
-				"hello again how are you",
-				"Hi cutie pie",
-				"Hiiiiiiiiiii, I missed you sooooooo much❤❤❤❤"
-			],
-			"neutral":[
-				"Sup",
-				"Hey bro",
-				"Wut it doo?",
-				"hello",
-				"hi whats goin on"
-			]
-		},
-		"how are you": {
-			"mad" :[
-				"im a little upset tbh",
-				"I've been better",
-				"Im okay... I guess",
-				"Im fine 😑"
-			],
-			"happy":[ 
-				"im feelin good how are you",
-				"better now😊",
-				"MMMM I'm good a little bored 😉"
-			],
-			"neutral":[
-				"meh",
-				"Im good",
-				"Not bad",
-				"better now thank you"
-			]
-		},
-		"wyd": {
-			"mad": [
-				"nothing"
-			],
-			"happy": [
-				"hmm nothing why",
-				"nothing why you wanna do something😉",
-				"oh, just sitting here thinking about you 😘",
-				"About to get in the shower 😏"
-			],
-			"neutral":[
-				"just chllin",
-				"getting ready for work",
-				"getting ready to go out",
-				"trying to figure out what to eat"
-			]
-		},
-		"whats up": {
-			"mad": [
-				"whats up with you"
-			],
-			"happy": [
-				"not much baby how are you",
-				"Heyyy 😊😊😊😊😊😊😊",
-				"my heart rate now 😉"
-			],
-			"neutral":[
-				"not a lot",
-				"trying to figure out what to do"
-			]
-		},	
-		"party": {
-			"mad": [
-				"nah",
-				"what the hell?"
-			],
-			"happy": [
-				"hell yea 🥳"
-			],
-			"neutral":[
-				"im down",
-				"not a bad idea"
-			]
-		},
-		"h": {
-			"mad": [
-				"wtf"
-			],
-			"happy": [
-				"hi?"
-			],
-			"neutral":[
-				"yep",
-				"well done :P"
-			]
-		},
-		"aaaaaaaaaaaaaaaaaaa": {
-			"mad": [
-				"chill"
-			],
-			"happy": [
-				"DID NOT FIND"
-			],
-			"neutral":[
-				"huh",
-				"try again"
-			]
-		},
-		"\\": {
-			"mad": [
-				"wtf"
-			],
-			"happy": [
-				"DID NOT FIND"
-			],
-			"neutral":[
-				"true",
-				"false"
-			]
-		},
-		"hi": {
-			"mad": [
-				"what do you want"
-			],
-			"happy": [
-				"heeeeeeey, how are you? :)",
-				"oh hey what're you doin 👀"
-			],
-			"neutral":[
-				"glad you messaged me",
-				"so glad to see you"
-			]
-		},
-		"fight": {
-			"mad": [
-				"leave me alone"
-			],
-			"happy": [
-				"what kinda fight"
-			],
-			"neutral":[
-				"im not a fan",
-				"what do you mean"
-			]
-		},
-		"whats the meaning of life": {
-			"mad": [
-				"how would I know"
-			],
-			"happy": [
-				"you baby"
-			],
-			"neutral":[
-				"why don't you tell me",
-				"you can be <_<"
-			]
-		},
-		"hey": {
-			"mad": [
-				"what"
-			],
-			"happy": [
-				"hello handsome",
-				"heyyy"
-			],
-			"neutral":[
-				"hey whatre you doing"
-			]
-		},
-		"whats your name": {
-			"mad": [
-				"be a little nicer will you"
-			],
-			"happy": [
-				"keep my company and maybe you'll find out"
-			],
-			"neutral":[
-				"its a bit soon for that"
-			]
-		},
-		"good": {
-			"mad": [
-				"glad to hear"
-			],
-			"happy": [
-				"glad to hear baby"
-			],
-			"neutral":[
-				"that's good to hear"
-			]
-		},
-		"meh": {
-			"mad": [
-				"thats rough buddy"
-			],
-			"happy": [
-				"sorry to hear, wats wrong"
-			],
-			"neutral":[
-				"aww that sucks what's bothering you"
-			]
-		},
-		"what do today": {
-			"mad": [
-				"not much why"
-			],
-			"happy": [
-				"I thought about you a bit, and hung out mostly"
-			],
-			"neutral":[
-				"not a whole lot, hung out mostly"
-			]
-		},
-		"lol": {
-			"mad": [
-				"glad that made you laugh .-."
-			],
-			"happy": [
-				"you're awesome"
-			],
-			"neutral":[
-				"xD"
-			]
-		},
-		"lmao": {
-			"mad": [
-				"what's so funnny???"
-			],
-			"happy": [
-				"xD you're awesome"
-			],
-			"neutral":[
-				"xD"
-			]
-		},
-		"nothing": {
-			"mad": [
-				"glad that made you laugh .-."
-			],
-			"happy": [
-				"wanna do something?",
-				"I feel that",
-				"thats a lie"
-			],
-			"neutral":[
-				"wym nothing",
-				"I don't believe you ;p"
-			]
-		},
-		"been busy": {
-			"mad": [
-				"damn that sucks"
-			],
-			"happy": [
-				"wanna do something else? :3",
-				"I feel that",
-				"thats a lie"
-			],
-			"neutral":[
-				"wym nothing",
-				"I don't believe you ;P"
-			]
-		},
-		"I've been doing": {
-			"mad": [
-				"damn that sucks"
-			],
-			"happy": [
-				"your life seems so interesting",
-				"that sounds p cool"
-			],
-			"neutral":[
-				"I'm jealous tbh",
-				"I don't believe you ;P"
-			]
-		},
-		"I'm doing": {
-			"mad": [
-				"huh interesting"
-			],
-			"happy": [
-				"that sounds fun",
-				"that sounds p cool"
-			],
-			"neutral":[
-				"that sounds p fun",
-				"I don't believe you ;P"
-			]
-		}
 	"hello": {
 		"mad": [
 			"why have you been so mean recently",
@@ -310,7 +18,9 @@
 		"neutral":[
 			"Sup",
 			"Hey bro",
-			"Wut it doo?"
+			"Wut it doo?",
+			"hello",
+			"hi whats goin on"
 		]
 	},
 	"how are you": {
@@ -328,7 +38,8 @@
 		"neutral":[
 			"meh",
 			"Im good",
-			"Not bad"
+			"Not bad",
+			"better now thank you"
 		]
 	},
 	"wyd": {
@@ -343,7 +54,9 @@
 		],
 		"neutral":[
 			"just chllin",
-			"getting ready for work"
+			"getting ready for work",
+			"getting ready to go out",
+			"trying to figure out what to eat"
 		]
 	},
 	"whats up": {
@@ -356,8 +69,8 @@
 			"my heart rate now 😉"
 		],
 		"neutral":[
-			"neutral",
-			"response"
+			"not a lot",
+			"trying to figure out what to do"
 		]
 	},	
 	"party": {
@@ -369,8 +82,8 @@
 			"hell yea 🥳"
 		],
 		"neutral":[
-			"neutral",
-			"response"
+			"im down",
+			"not a bad idea"
 		]
 	},
 	"h": {
@@ -381,8 +94,8 @@
 			"hi?"
 		],
 		"neutral":[
-			"umm, wut",
-			"response"
+			"yep",
+			"well done :P"
 		]
 	},
 	"aaaaaaaaaaaaaaaaaaa": {
@@ -393,20 +106,8 @@
 			"DID NOT FIND"
 		],
 		"neutral":[
-			"neutral",
-			"response"
-		]
-	},
-	"\\": {
-		"mad": [
-			"wtf"
-		],
-		"happy": [
-			"DID NOT FIND"
-		],
-		"neutral":[
-			"neutral",
-			"response"
+			"huh",
+			"try again"
 		]
 	},
 	"hi": {
@@ -418,8 +119,8 @@
 			"oh hey what're you doin 👀"
 		],
 		"neutral":[
-			"neutral",
-			"response"
+			"glad you messaged me",
+			"so glad to see you"
 		]
 	},
 	"fight": {
@@ -430,8 +131,152 @@
 			"what kinda fight"
 		],
 		"neutral":[
-			"neutral",
-			"response"
+			"im not a fan",
+			"what do you mean"
+		]
+	},
+	"whats the meaning of life": {
+		"mad": [
+			"how would I know"
+		],
+		"happy": [
+			"you baby"
+		],
+		"neutral":[
+			"why don't you tell me",
+			"you can be <_<"
+		]
+	},
+	"hey": {
+		"mad": [
+			"what"
+		],
+		"happy": [
+			"hello handsome",
+			"heyyy"
+		],
+		"neutral":[
+			"hey whatre you doing"
+		]
+	},
+	"whats your name": {
+		"mad": [
+			"be a little nicer will you"
+		],
+		"happy": [
+			"keep my company and maybe you'll find out"
+		],
+		"neutral":[
+			"its a bit soon for that"
+		]
+	},
+	"good": {
+		"mad": [
+			"glad to hear"
+		],
+		"happy": [
+			"glad to hear baby"
+		],
+		"neutral":[
+			"that's good to hear"
+		]
+	},
+	"meh": {
+		"mad": [
+			"thats rough buddy"
+		],
+		"happy": [
+			"sorry to hear, wats wrong"
+		],
+		"neutral":[
+			"aww that sucks what's bothering you"
+		]
+	},
+	"what do today": {
+		"mad": [
+			"not much why"
+		],
+		"happy": [
+			"I thought about you a bit, and hung out mostly"
+		],
+		"neutral":[
+			"not a whole lot, hung out mostly"
+		]
+	},
+	"lol": {
+		"mad": [
+			"glad that made you laugh .-."
+		],
+		"happy": [
+			"you're awesome"
+		],
+		"neutral":[
+			"xD"
+		]
+	},
+	"lmao": {
+		"mad": [
+			"what's so funnny???"
+		],
+		"happy": [
+			"xD you're awesome"
+		],
+		"neutral":[
+			"xD"
+		]
+	},
+	"nothing": {
+		"mad": [
+			"glad that made you laugh .-."
+		],
+		"happy": [
+			"wanna do something?",
+			"I feel that",
+			"thats a lie"
+		],
+		"neutral":[
+			"wym nothing",
+			"I don't believe you ;p"
+		]
+	},
+	"been busy": {
+		"mad": [
+			"damn that sucks"
+		],
+		"happy": [
+			"wanna do something else? :3",
+			"I feel that",
+			"thats a lie"
+		],
+		"neutral":[
+			"wym nothing",
+			"I don't believe you ;P"
+		]
+	},
+	"I've been doing": {
+		"mad": [
+			"damn that sucks"
+		],
+		"happy": [
+			"your life seems so interesting",
+			"that sounds p cool"
+		],
+		"neutral":[
+			"I'm jealous tbh",
+			"I don't believe you ;P"
+		]
+	},
+	"I'm doing": {
+		"mad": [
+			"huh interesting"
+		],
+		"happy": [
+			"that sounds fun",
+			"that sounds p cool"
+		],
+		"neutral":[
+			"that sounds p fun",
+			"I don't believe you ;P"
 		]
 	},
 	"default": {
