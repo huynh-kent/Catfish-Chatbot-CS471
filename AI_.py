@@ -7,7 +7,7 @@ class AI:
     def __init__(self):
         #self.mood = random.choice(['HAPPY', 'SAD', 'ANGRY', 'NEUTRAL'])
         self.STRESS_LEVEL = 0 #global incrementor
-        self.mood = 'neutral'
+        self.mood = "neutral"
         self.mood_value = 0
         
     #return whatever mood (strgin the AI is feeling)
@@ -18,11 +18,11 @@ class AI:
     #TODO: Fix algorithm to set the mood once we can determine the percentajes
     def setMood(self):
         if self.compound > .2:
-            self.mood = 'happy'
+            self.mood = "happy"
         elif self.compound == 0:
-            self.mood = 'neutral'
+            self.mood = "neutral"
         elif self.compound < (-.2):
-            self.mood = 'mad'
+            self.mood = "mad"
 
     #! NOT WORKING, NEEDS TO FIX OVERALL STRESS LEVEL
     def getStressLevel(self):
