@@ -14,8 +14,8 @@ def process_message(user, sent_input):
     best_match = difflib.get_close_matches(sent_input, CORPUS_RESPONSES, n=1, cutoff=0.2)
     if best_match:
         best_match_string = str(best_match).strip("[]'")
-        print(best_match_string)
-        print(CORPUS[best_match_string][user.ai.mood])
+    #    print(best_match_string)
+    #    print(CORPUS[best_match_string][user.ai.mood])
         response = random.choice(CORPUS[best_match_string][user.ai.mood])
     else:
         response = random.choice(CORPUS['default']['response'])

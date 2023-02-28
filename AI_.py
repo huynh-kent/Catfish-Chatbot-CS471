@@ -40,7 +40,7 @@ class AI:
         self.incoming_message = incoming_message
         string, sentiment_value, float_value = analyzeSentiment(self.incoming_message)
         compound = sentiment_value['compound']
-        print(sentiment_value['compound'])
+        #print(self.mood_value)
         self.update_mood_value(compound)
         #self.setMood(self.mood, sentiment_value['compound'])
 
